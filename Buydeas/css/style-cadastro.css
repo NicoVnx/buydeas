@@ -1,0 +1,173 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+
+  margin: 0;
+  padding: 0;
+  font-family: montserrat;
+  background: #eeeeee;
+  
+}
+
+.box{
+
+  width: 650px;
+  height: 450px;
+  padding: 25px 40px 40px 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #252525;
+  text-align: center;
+  transition: 0.70s;
+  
+}
+
+.box-login{
+
+  height: 70%;
+  
+}
+
+.box-login h1{
+
+  margin-bottom: 3rem;
+  font-size: 150%;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 500;
+  
+}
+
+.container-text-box{
+  top: 50%;
+  left: 50%;
+  width: 650px;
+  height: 450px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.container-text-box .container1,.container-text-box .container2{
+
+width: 50%;
+
+}
+
+.container-text-box .text-box{
+
+  display: flex;
+  height: 5.5rem;
+  width: 85%;
+  
+}
+
+.container2 .text-box{
+
+  float: right;
+
+}
+
+.text-box{
+
+  margin-bottom: 8%
+  
+}
+
+
+
+
+.text-box [name = "user"],.text-box [name = "password"],.text-box [name = "email"],.text-box [name = "date"]{
+  
+  margin-top: 10.5%;
+  color:#fff;
+
+}
+
+.box-login input[type = "text"],.box input[type = "password"],.box input[type = "email"],.box input[type = "date"]{
+
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px  0 20px 20px;
+  text-align: center;
+  border: 2px solid #ffffff;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  
+}
+.box-login input[type = "text"]:focus,.box input[type = "password"]:focus,.box input[type = "email"]:focus,.box input[type = "date"]:focus{
+
+  width: 220px;
+  transition: 0.35s;
+  border-color: #2f65c9;
+  
+
+}
+
+.footer input[name = "confirmar"]{
+
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #2c65e0;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  cursor: pointer;
+
+}
+
+.footer input[name = "confirmar"]:hover{
+
+  background: #2c65e0;
+  transition: 0.35s;
+  
+}
+
+.box .cad input[name = "logar"]{
+
+  margin-top: 19.5%;
+  border:0;
+  background: none;
+  display: block;
+  margin: auto auto;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: -1rem;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  font-size: 1rem;
+
+}
+  
+  .cad input[name = "logar"]:hover{
+  color: #2e60cc;
+  transition: 0.5s;
+}
+
+.footer{
+
+  position: relative;
+  margin-top: -33%;
+
+}
+
+.footer input[value = "Confirmar"]{
+
+  width: 30%;
+  font-size: 16px;
+
+}
+
+
+

@@ -1,0 +1,170 @@
+*{
+
+    font-family: montserrat;
+    
+}
+
+header { 
+
+    position:absolute;
+    position:fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 70px; 
+    z-index: 12;
+    box-shadow: 0px 2px 5px black ;
+    
+
+ }
+
+.main-context{
+
+    position: relative;
+
+}
+
+body {
+
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+
+}
+
+.logo img{
+
+    float: left;
+    width: 16%;
+    height: 16%;
+
+    margin-top: 0.5%;
+    margin-left: -10%;
+
+    
+
+}
+
+
+.menu{
+
+    background-color: rgb(34, 34, 34);
+    width: 100%;
+    height: 70px;
+    margin-top: -16px;
+    
+}
+
+main{
+
+    width: 1280px;
+    height: 70px;
+    margin: 0 auto;
+    position: relative;
+
+
+}
+
+.redes ul li{
+
+    display: inline;  
+    float: left;  
+    padding: 8px;
+    
+}
+
+.redes ul {
+
+    margin-left: 80%;
+
+}
+
+.redes ul li:hover{
+
+transform: scale(1.1);
+transition: 0.5s;
+    transition-delay: 0s;
+}
+
+.homes a{
+
+color: white;
+font-size: 22px;
+
+}
+
+.homes ul li{
+
+    display: inline;  
+    float: left;  
+    padding: 10px;
+    margin-top: 1%;
+    
+}
+
+.homes ul li a{
+
+    text-decoration: none;
+
+}
+
+.homes ul {
+
+    margin-left: 25%;
+
+}
+
+.homes ul li a:hover{
+
+color: #697ce6;
+
+
+}
+
+.homes ul li:hover{
+
+    transform: scale(1.1); 
+    transition: 0.5s;
+    transition-delay: 0s;
+    }
+
+.login{
+
+    margin-left: 90%;
+    margin-top: -4.2%;
+
+}    
+
+.login a{
+
+    color: white;
+    font-size: 28px;   
+    text-decoration: none;
+
+}
+
+.login ul li {
+
+    display: inline;  
+    float: left;  
+    padding: 10px;
+    margin-top: 1%;
+
+} 
+
+.login ul li a:hover{
+
+    color: #697ce6;
+    
+    }
+    
+.login ul li:hover{
+    
+    transform: scale(1.2); 
+    transition: 0.5s;
+    transition-delay: 0s;
+}
+
+
+
