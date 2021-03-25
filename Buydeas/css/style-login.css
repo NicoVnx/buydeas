@@ -1,0 +1,106 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: montserrat;
+  background: #eeeeee;
+  
+}
+.box{
+  width: 300px;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #252525;
+  text-align: center;
+  transition: 0.70s;
+  
+}
+.box-login h1{
+  color: white;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.box-login input[type = "text"],.box input[type = "password"]{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #ffffff;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+ 
+}
+.box-login input[type = "text"]:focus,.box input[type = "password"]:focus{
+  width: 220px;
+  border-color: #2f65c9;
+}
+.box-login input[type = "submit"]{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #2c65e0;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  
+  cursor: pointer;
+}
+.box-login input[type = "submit"]:hover{
+  background: #2c65e0;
+}
+
+.cad input[name = "cadastro"]{
+
+  border:0;
+  background: none;
+  display: block;
+  margin: auto auto;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: -1rem;
+  outline: none;
+  color: white;
+ 
+  cursor: pointer;
+
+  font-size: 1rem;
+ 
+}
+
+.cad input[type = "submit"]:hover{
+  color: #2e60cc;
+}
+
+.text-box{
+
+  display: flex;
+  height: 5.5rem
+  
+  }
+  
+  .text-box [name = "user"]{
+  
+  margin-top: 10.5%;
+  color:#fff;
+
+  }
+
+  .text-box [name = "password"]{
+  
+    margin-top: 10.5%;
+    color:#fff;
+    }
+
+  
+
