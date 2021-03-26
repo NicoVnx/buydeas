@@ -1,9 +1,10 @@
-# buydeas
-A e-comcerce that I'm building to get experience and learning.
+![buydeas](https://user-images.githubusercontent.com/80636884/112646698-84a15880-8e26-11eb-9dad-71677c8200cd.png)
 
-Um e-commerce que estou criando para obter experiência e aprendizado.
+(Pt/BR) Um e-commerce que estou criando para obter experiência e aprendizado.
 
-Version 0.1 Alpha
+(EN) A e-comcerce that I'm building to get experience and learning.
+
+## Version 0.1 Alpha
 
 (Pt/BR) Em breve irei adicionar melhorias na estrutura do código. 
 
