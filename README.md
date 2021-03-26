@@ -1,4 +1,4 @@
-![buydeas](https://user-images.githubusercontent.com/80636884/112646698-84a15880-8e26-11eb-9dad-71677c8200cd.png)
+<style border-radius: 10px>![buydeas](https://user-images.githubusercontent.com/80636884/112646698-84a15880-8e26-11eb-9dad-71677c8200cd.png)</style>
 
 (Pt/BR) Um e-commerce que estou criando para obter experiência e aprendizado.
 
@@ -6,9 +6,9 @@
 
 ## Version 0.1 Alpha
 
-(Pt/BR) Em breve irei adicionar melhorias na estrutura do código. 
+**(Pt/BR)** Em breve irei adicionar melhorias na estrutura do código. 
 
-(EN)  I will soon add improvements to the code structure.
+**(EN)**  I will soon add improvements to the code structure.
 
 Decidi deixar a home page para fazer mais tarde, pois vai demandar mais tempo que as outras páginas. No momento ela está assim:
 
