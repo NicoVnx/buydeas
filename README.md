@@ -9,11 +9,11 @@ Version 0.1 Alpha
 
 (EN)  I will soon add improvements to the code structure.
 
-Deidi deixar a home page para fazer mais tarde, pois vai demandar mais tempo que as outras páginas. No momento ela está assim:
+Decidi deixar a home page para fazer mais tarde, pois vai demandar mais tempo que as outras páginas. No momento ela está assim:
 
 ![home-page-buydeas](https://user-images.githubusercontent.com/80636884/112549578-c8e81680-8d9c-11eb-9a94-d05db48f5ec9.jpg)
 
-Já as páginas de login, cadastro, e suporte já estão mais encaminhadas:
+Já as páginas de login, cadastro, e suporte estão mais encaminhadas:
 
 (Login)
 ![login-buydeas](https://user-images.githubusercontent.com/80636884/112549713-fc2aa580-8d9c-11eb-9ac1-8c8b1f58726a.jpg)
