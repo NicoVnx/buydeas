@@ -26,36 +26,36 @@ Decidi deixar a home page para fazer mais tarde, pois vai demandar mais tempo qu
 
 <p align="center">
     <a href="" target="_blank"><img width="70%" height="70%" src="https://user-images.githubusercontent.com/80636884/112549578-c8e81680-8d9c-11eb-9a94-d05db48f5ec9.jpg" alt="Buydeas Logo"></a>
+    
+<br/>
 
 Já as páginas de login, cadastro, e suporte estão mais encaminhadas:
 
-### Login
-
 <br/>
+
+### Login
 
 <p align="center">
     <a href="" target="_blank"><img width="70%" height="70%" src="https://user-images.githubusercontent.com/80636884/112549713-fc2aa580-8d9c-11eb-9ac1-8c8b1f58726a.jpg" alt="Buydeas Login"></a>
-
-### Cadastro
-
+    
 <br/>
+    
+### Cadastro
 
 <p align="center">
     <a href="" target="_blank"><img width="70%" height="70%" src="https://user-images.githubusercontent.com/80636884/112549754-0d73b200-8d9d-11eb-8053-046fad02c2a5.jpg" alt="Buydeas Cadastro"></a>
 
+<br/>
 
 ### Suporte
-
-<br/>
 
 <p align="center">
     <a href="" target="_blank"><img width="70%" height="70%" src="https://user-images.githubusercontent.com/80636884/112549789-1c5a6480-8d9d-11eb-8a1a-08355807c425.jpg" alt="Buydeas Suporte"></a>
   
 <br/>
+<br/>
 
 ## Contributing
-
-<br/>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
 
@@ -77,8 +77,6 @@ See `LICENSE` for more information.
 <br/>
 
 ## Contact
-
-<br/>
 
 Nicolas Viana - nico.vnx07@gmail.com
 
