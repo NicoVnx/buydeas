@@ -1,5 +1,5 @@
 # buydeas
-e-comcerce that I'm building to get experience and learning.
+A e-comcerce that I'm building to get experience and learning.
 
 Um e-commerce que estou criando para obter experiência e aprendizado.
 
