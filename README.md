@@ -9,6 +9,8 @@
     <br />
     <br />
 
+**(No momento esse projeto está parado, estou dando inicio á um novo projeto TCC do curso - Informárica para Internet EtecVAV)**
+
 ## Version 0.1 Alpha
 <br/>
 
